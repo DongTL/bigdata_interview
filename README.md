@@ -14,7 +14,7 @@
 - [3 Hive中的4种排序](Hive/3-Hive中的4种排序.md)
 - [4 Hive中的join](Hive/4-Hive中的join.md)
 - [5 Hive窗口函数](Hive/5-Hive窗口函数.md)
-- [6 Hive UDF](Hive/6-Hive UDF.md)
+- [6 Hive UDF](Hive/6-Hive中的UDF.md)
 - [7 Hive优化](Hive/7-Hive优化.md)
 
 
