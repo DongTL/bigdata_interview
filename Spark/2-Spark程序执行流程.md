@@ -1,6 +1,6 @@
 # Spark程序执行流程
 
-![Spark任务执行流程-新](../../Spark/Spark任务执行流程-新.bmp)
+![spark-submit-flow](2-Spark程序执行流程.assets/spark-submit-flow.bmp)
 
 以YARN模式为例：
 
